@@ -6,7 +6,7 @@ function App() {
     messages: [{
       body: 'Im learning GraphQL'
     }, {
-      body: 'with prisma, postgres, railway, graphql-yoga, graphql-codegen and pothos.'
+      body: 'With TSX, Prisma, postgres and gql-yoga.'
     }]
   }]
   return (

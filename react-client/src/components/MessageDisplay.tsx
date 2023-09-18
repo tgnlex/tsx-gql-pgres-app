@@ -5,8 +5,6 @@ type Props = {
     index: number
 }
 
-import React from 'react'
-
 function MessageDisplay({message, index}: Props) {
   return (
     <div className="group mb-2 shrink-0 rounded-lg flex items-center drop-shadow-md bg-zinc-700 w-48 h-20 relative">
